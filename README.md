@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Kielz71
-- 👀 I’m interested in ethical hacking, AI and nanotech
-- 🌱 I’m currently learning ehtical hacking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I have a large interest in AI and Machine learning
+- 🌱 I’m currently learning Introduction to AI with Python
 
 <!---
 Kielz71/Kielz71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
